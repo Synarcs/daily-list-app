@@ -1,0 +1,13 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.App{
+    height: 400px;
+    padding: 0px;
+    margin: 0px;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: #5600b2;
+}
